@@ -1,6 +1,6 @@
 ---
-name: New Design
-about: When creating a new design from a requirements doc
+name: Design Project
+about: When creating new designs for a project
 title: 'Design: [Contextual Title]'
 labels: design
 assignees: ''
